@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "hello": "Bonjour, connexion",
+    "returns": "Retours et commandes",
+    "cart": "Panier",
+    "searchPlaceholder": "Rechercher des produits",
+    "language": "Langue"
+  },
+  "categories": "Catégories",
+  "category": "Catégorie",
+  "home": {
+    "popular": "Populaires",
+    "highRated": "Les mieux notés",
+    "newest": "Nouveautés",
+    "budget": "Petits prix"
+  },
+  "filters": {
+    "sort": "Trier",
+    "min": "Min",
+    "max": "Max",
+    "popular": "Populaires",
+    "rating": "Note",
+    "priceLow": "Prix: croissant",
+    "priceHigh": "Prix: décroissant",
+    "newest": "Plus récents"
+  },
+  "search": {
+    "title": "Résultats: {{q}}",
+    "empty": "Aucun résultat",
+    "hint": "Saisissez un produit dans la barre de recherche."
+  },
+  "product": {
+    "price": "Prix",
+    "category": "Catégorie",
+    "rating": "Note",
+    "reviews": "Avis",
+    "addToCart": "Ajouter au panier",
+    "loginRequired": "Connexion requise",
+    "buyNow": "Acheter maintenant",
+    "view": "Voir le détail",
+    "notFound": "Produit introuvable"
+  },
+  "cart": {
+    "title": "Panier",
+    "empty": "Votre panier est vide.",
+    "subtotal": "Sous-total",
+    "checkout": "Passer au paiement",
+    "login": "Connexion requise."
+  },
+  "orders": {
+    "title": "Vos commandes",
+    "empty": "Aucune commande."
+  },
+  "login": {
+    "title": "Connexion / Inscription",
+    "email": "Email",
+    "name": "Nom (optionnel)",
+    "submit": "Connexion",
+    "logout": "Déconnexion"
+  },
+  "categoriesPage": {
+    "title": "Toutes les catégories",
+    "subtitle": "Parcourez par pays et catégorie principale.",
+    "filterLabel": "Régions",
+    "all": "Toutes",
+    "empty": "Aucune catégorie disponible."
+  },
+  "pagination": {
+    "prev": "Précédent",
+    "next": "Suivant",
+    "page": "Page {{page}}"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "bestSellers": "Meilleures ventes"
+  },
+  "stats": {
+    "title": "Vue marché",
+    "subtitle": "Indicateurs par pays.",
+    "columns": {
+      "country": "Pays",
+      "products": "Produits",
+      "avgPrice": "Prix moy.",
+      "avgRating": "Note moy."
+    },
+    "market": {
+      "US": "États-Unis",
+      "CA": "Canada",
+      "UK": "Royaume-Uni",
+      "IN": "Inde"
+    }
+  },
+  "categoryPage": {
+    "results": "{{count}} résultats",
+    "departments": "Rayons",
+    "ratingFilter": "Notes clients",
+    "allRatings": "Tout voir",
+    "keyword": "Mot-clé",
+    "deliverTo": "Livrer à {{country}}",
+    "dealFilters": {
+      "all": "Toutes les offres",
+      "today": "Offres du jour",
+      "lightning": "Ventes flash",
+      "tech": "Tech & Gaming",
+      "home": "Maison & Cuisine"
+    }
+  }
+}

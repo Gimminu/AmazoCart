@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "hello": "नमस्ते, साइन इन करें",
+    "returns": "रिटर्न व ऑर्डर",
+    "cart": "कार्ट",
+    "searchPlaceholder": "उत्पाद खोजें",
+    "language": "भाषा"
+  },
+  "categories": "श्रेणियाँ",
+  "category": "श्रेणी",
+  "home": {
+    "popular": "लोकप्रिय",
+    "highRated": "उच्च रेटेड",
+    "newest": "नवीनतम",
+    "budget": "बजट चयन"
+  },
+  "filters": {
+    "sort": "सॉर्ट",
+    "min": "न्यूनतम",
+    "max": "अधिकतम",
+    "popular": "लोकप्रिय",
+    "rating": "रेटिंग",
+    "priceLow": "कीमत: कम से अधिक",
+    "priceHigh": "कीमत: अधिक से कम",
+    "newest": "नवीनतम"
+  },
+  "search": {
+    "title": "खोज परिणाम: {{q}}",
+    "empty": "कोई परिणाम नहीं",
+    "hint": "ऊपर खोज बार में उत्पाद का नाम लिखें।"
+  },
+  "product": {
+    "price": "कीमत",
+    "category": "श्रेणी",
+    "rating": "रेटिंग",
+    "reviews": "समीक्षाएँ",
+    "addToCart": "कार्ट में डालें",
+    "loginRequired": "साइन इन आवश्यक",
+    "buyNow": "अभी खरीदें",
+    "view": "विवरण देखें",
+    "notFound": "उत्पाद नहीं मिला"
+  },
+  "cart": {
+    "title": "शॉपिंग कार्ट",
+    "empty": "कार्ट खाली है।",
+    "subtotal": "सबटोटल",
+    "checkout": "चेकआउट",
+    "login": "साइन इन आवश्यक।"
+  },
+  "orders": {
+    "title": "आपके ऑर्डर",
+    "empty": "अभी कोई ऑर्डर नहीं।"
+  },
+  "login": {
+    "title": "साइन इन / साइन अप",
+    "email": "ईमेल",
+    "name": "नाम (वैकल्पिक)",
+    "submit": "साइन इन",
+    "logout": "साइन आउट"
+  },
+  "categoriesPage": {
+    "title": "सभी श्रेणियाँ",
+    "subtitle": "देश और मुख्य श्रेणी के अनुसार ब्राउज़ करें।",
+    "filterLabel": "क्षेत्र",
+    "all": "सभी",
+    "empty": "कोई श्रेणी उपलब्ध नहीं।"
+  },
+  "pagination": {
+    "prev": "पिछला",
+    "next": "अगला",
+    "page": "पृष्ठ {{page}}"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "bestSellers": "बेस्ट सेलर"
+  },
+  "stats": {
+    "title": "मार्केट झलक",
+    "subtitle": "देशवार मुख्य संकेतक।",
+    "columns": {
+      "country": "देश",
+      "products": "उत्पाद",
+      "avgPrice": "औसत कीमत",
+      "avgRating": "औसत रेटिंग"
+    },
+    "market": {
+      "US": "संयुक्त राज्य",
+      "CA": "कनाडा",
+      "UK": "यूनाइटेड किंगडम",
+      "IN": "भारत"
+    }
+  },
+  "categoryPage": {
+    "results": "{{count}} परिणाम",
+    "departments": "विभाग",
+    "ratingFilter": "ग्राहक रेटिंग",
+    "allRatings": "सभी देखें",
+    "keyword": "कीवर्ड",
+    "deliverTo": "डिलीवर करें: {{country}}",
+    "dealFilters": {
+      "all": "सभी डील",
+      "today": "आज की डील",
+      "lightning": "लाइटनिंग डील",
+      "tech": "टेक & गेमिंग",
+      "home": "होम & किचन"
+    }
+  }
+}

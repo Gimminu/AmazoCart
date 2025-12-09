@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "hello": "안녕하세요, 로그인",
+    "returns": "반품 및 주문",
+    "cart": "장바구니",
+    "searchPlaceholder": "상품 검색",
+    "language": "언어",
+    "deliverTo": "배송지"
+  },
+  "categories": "카테고리",
+  "category": "카테고리",
+  "home": {
+    "popular": "인기 상품",
+    "highRated": "높은 평점",
+    "newest": "최신 등록",
+    "budget": "저렴한 상품"
+  },
+  "regions": {
+    "US": "미국",
+    "UK": "영국",
+    "CA": "캐나다",
+    "IN": "인도"
+  },
+  "filters": {
+    "sort": "정렬",
+    "min": "최소가",
+    "max": "최대가",
+    "popular": "인기순",
+    "rating": "평점순",
+    "priceLow": "낮은 가격",
+    "priceHigh": "높은 가격",
+    "newest": "최신순"
+  },
+  "search": {
+    "title": "검색 결과: {{q}}",
+    "empty": "결과가 없습니다.",
+    "hint": "상단 검색창에 상품명을 입력하세요."
+  },
+  "product": {
+    "price": "가격",
+    "category": "카테고리",
+    "rating": "평점",
+    "reviews": "리뷰",
+    "addToCart": "장바구니 담기",
+    "loginRequired": "로그인 필요",
+    "buyNow": "바로 구매",
+    "view": "상세 보기",
+    "notFound": "상품을 찾을 수 없습니다."
+  },
+  "cart": {
+    "title": "장바구니",
+    "empty": "장바구니가 비었습니다.",
+    "subtotal": "소계",
+    "checkout": "결제 진행",
+    "login": "로그인이 필요합니다."
+  },
+  "orders": {
+    "title": "주문내역",
+    "empty": "주문 내역이 없습니다."
+  },
+  "login": {
+    "title": "로그인 / 회원가입",
+    "email": "이메일",
+    "name": "이름(선택)",
+    "submit": "로그인",
+    "logout": "로그아웃"
+  },
+  "categoriesPage": {
+    "title": "카테고리 전체",
+    "subtitle": "국가별 category_main 데이터를 확인하세요.",
+    "filterLabel": "국가",
+    "all": "전체",
+    "empty": "카테고리가 없습니다."
+  },
+  "pagination": {
+    "prev": "이전",
+    "next": "다음",
+    "page": "{{page}} 페이지",
+    "showing": "총 {{count}}개 표시 (페이지당 {{size}}개)"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "bestSellers": "베스트 셀러"
+  },
+  "stats": {
+    "title": "국가별 마켓 스냅샷",
+    "subtitle": "Amazon Electronics 데이터 기준 국가별 지표입니다.",
+    "columns": {
+      "country": "국가",
+      "products": "상품 수",
+      "avgPrice": "평균 가격",
+      "avgRating": "평균 평점"
+    },
+    "market": {
+      "US": "미국",
+      "CA": "캐나다",
+      "UK": "영국",
+      "IN": "인도"
+    }
+  },
+  "categoryPage": {
+    "results": "현재 {{count}}개 결과",
+    "departments": "부서",
+    "ratingFilter": "고객 평점",
+    "allRatings": "전체 보기",
+    "keyword": "키워드",
+    "deliverTo": "{{country}} 배송",
+    "dealFilters": {
+      "all": "전체 딜",
+      "today": "오늘의 특가",
+      "lightning": "번개 딜",
+      "tech": "테크 & 게이밍",
+      "home": "홈 & 키친"
+    }
+  }
+}

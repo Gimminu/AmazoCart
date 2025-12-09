@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "hello": "Hello, sign in",
+    "returns": "Returns & Orders",
+    "cart": "Cart",
+    "searchPlaceholder": "Search products",
+    "language": "Language"
+  },
+  "categories": "Categories",
+  "category": "Category",
+  "home": {
+    "popular": "Popular Picks",
+    "highRated": "Top Rated",
+    "newest": "Latest Arrivals",
+    "budget": "Budget Finds"
+  },
+  "filters": {
+    "sort": "Sort",
+    "min": "Min",
+    "max": "Max",
+    "popular": "Popular",
+    "rating": "Rating",
+    "priceLow": "Price: Low to High",
+    "priceHigh": "Price: High to Low",
+    "newest": "Newest"
+  },
+  "search": {
+    "title": "Search results: {{q}}",
+    "empty": "No results",
+    "hint": "Use the top search bar to find an item."
+  },
+  "product": {
+    "price": "Price",
+    "category": "Category",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "addToCart": "Add to cart",
+    "loginRequired": "Please sign in",
+    "buyNow": "Buy now",
+    "view": "View detail",
+    "notFound": "Product not found"
+  },
+  "cart": {
+    "title": "Shopping cart",
+    "empty": "Your cart is empty.",
+    "subtotal": "Subtotal",
+    "checkout": "Proceed to checkout",
+    "login": "Sign in required."
+  },
+  "orders": {
+    "title": "Your orders",
+    "empty": "No orders yet."
+  },
+  "login": {
+    "title": "Sign in / Sign up",
+    "email": "Email",
+    "name": "Name (optional)",
+    "submit": "Sign in",
+    "logout": "Sign out"
+  },
+  "categoriesPage": {
+    "title": "All Categories",
+    "subtitle": "Browse the dataset by country and category_main.",
+    "filterLabel": "Regions",
+    "all": "All",
+    "empty": "No categories available."
+  },
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next",
+    "page": "Page {{page}}"
+  },
+  "common": {
+    "loading": "Loading...",
+    "bestSellers": "Best Sellers"
+  },
+  "stats": {
+    "title": "Marketplace snapshot",
+    "subtitle": "Live marketplace metrics for each country.",
+    "columns": {
+      "country": "Country",
+      "products": "Products",
+      "avgPrice": "Avg. price",
+      "avgRating": "Avg. rating"
+    },
+    "market": {
+      "US": "United States",
+      "CA": "Canada",
+      "UK": "United Kingdom",
+      "IN": "India"
+    }
+  },
+  "categoryPage": {
+    "results": "{{count}} results",
+    "departments": "Departments",
+    "ratingFilter": "Customer ratings",
+    "allRatings": "View all ratings",
+    "keyword": "Keyword",
+    "deliverTo": "Deliver to {{country}}",
+    "dealFilters": {
+      "all": "All deals",
+      "today": "Today's Big Deals",
+      "lightning": "Lightning deals",
+      "tech": "Tech & Gaming",
+      "home": "Home & Kitchen"
+    }
+  }
+}

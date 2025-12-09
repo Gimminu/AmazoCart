@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "hello": "Hello, sign in",
+    "returns": "Returns & Orders",
+    "cart": "Cart",
+    "searchPlaceholder": "Search products",
+    "language": "Language",
+    "deliverTo": "Deliver to"
+  },
+  "categories": "Categories",
+  "category": "Category",
+  "home": {
+    "popular": "Popular",
+    "highRated": "Top Rated",
+    "newest": "New Arrivals",
+    "budget": "Budget Picks"
+  },
+  "regions": {
+    "US": "United States",
+    "UK": "United Kingdom",
+    "CA": "Canada",
+    "IN": "India"
+  },
+  "filters": {
+    "sort": "Sort",
+    "min": "Min",
+    "max": "Max",
+    "popular": "Popular",
+    "rating": "Rating",
+    "priceLow": "Price: Low to High",
+    "priceHigh": "Price: High to Low",
+    "newest": "Newest"
+  },
+  "search": {
+    "title": "Search results: {{q}}",
+    "empty": "No results",
+    "hint": "Type a product name in the top search bar"
+  },
+  "product": {
+    "price": "Price",
+    "category": "Category",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "addToCart": "Add to Cart",
+    "loginRequired": "Login required",
+    "buyNow": "Buy Now",
+    "view": "View Detail",
+    "notFound": "Product not found"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty.",
+    "subtotal": "Subtotal",
+    "checkout": "Proceed to Checkout",
+    "login": "Login required"
+  },
+  "orders": {
+    "title": "Your Orders",
+    "empty": "No orders yet."
+  },
+  "login": {
+    "title": "Sign in / Sign up",
+    "email": "Email",
+    "name": "Name (optional)",
+    "submit": "Login",
+    "logout": "Logout"
+  },
+  "categoriesPage": {
+    "title": "All Categories",
+    "subtitle": "Browse the dataset by country and category_main.",
+    "filterLabel": "Regions",
+    "all": "All",
+    "empty": "No categories available."
+  },
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next",
+    "page": "Page {{page}}",
+    "showing": "Showing {{count}} items ({{size}} per page)"
+  },
+  "common": {
+    "loading": "Loading...",
+    "bestSellers": "Best Sellers"
+  },
+  "stats": {
+    "title": "Marketplace snapshot",
+    "subtitle": "Live metrics by country from the Amazon electronics dataset.",
+    "columns": {
+      "country": "Country",
+      "products": "Products",
+      "avgPrice": "Avg. price",
+      "avgRating": "Avg. rating"
+    },
+    "market": {
+      "US": "United States",
+      "CA": "Canada",
+      "UK": "United Kingdom",
+      "IN": "India"
+    }
+  },
+  "categoryPage": {
+    "results": "{{count}} results",
+    "departments": "Departments",
+    "ratingFilter": "Customer ratings",
+    "allRatings": "View all ratings",
+    "keyword": "Keyword",
+    "deliverTo": "Deliver to {{country}}",
+    "dealFilters": {
+      "all": "All deals",
+      "today": "Today's Big Deals",
+      "lightning": "Lightning deals",
+      "tech": "Tech & Gaming",
+      "home": "Home & Kitchen"
+    }
+  }
+}
